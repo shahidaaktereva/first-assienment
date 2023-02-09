@@ -57,3 +57,40 @@
 .img-decoration img {
     padding-right: 100px;
 }
+.another-section{
+    margin-left: 50px;
+    margin-bottom: 100px;
+}
+.section-title{
+    color: #151414;
+    font-weight: 700;
+    font-size: 40px;
+    text-align: center;
+    padding-bottom: 60px;
+    padding-top: 150px;
+}
+.section-description{
+    display: flex;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.img-style{
+    padding: 60px 50px;
+}
+.img-style h4{
+    color: #151414;
+    text-align: center;
+    font-weight: 500px;
+    font-size: 20px;
+    padding: 16px 0px 16px 0px;
+}
+.img-style p{
+    color: #737272;
+    text-align: center;
+}
+.img-style img {
+  padding-left: 10px;
+}
+.img-style .img-padd{
+    padding-left: 40px;
+}
